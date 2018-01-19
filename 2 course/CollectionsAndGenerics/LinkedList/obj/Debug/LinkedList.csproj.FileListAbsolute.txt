@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\CollectionsAndGenerics\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\student\Desktop\CollectionsAndGenerics\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\student\Desktop\CollectionsAndGenerics\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\student\Desktop\CollectionsAndGenerics\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\student\Desktop\CollectionsAndGenerics\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\student\Desktop\CollectionsAndGenerics\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache

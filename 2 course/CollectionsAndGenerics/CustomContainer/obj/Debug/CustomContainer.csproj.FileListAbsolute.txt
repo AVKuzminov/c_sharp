@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\CollectionsAndGenerics\CustomContainer\bin\Debug\CustomContainer.exe.config
+C:\Users\student\Desktop\CollectionsAndGenerics\CustomContainer\bin\Debug\CustomContainer.exe
+C:\Users\student\Desktop\CollectionsAndGenerics\CustomContainer\bin\Debug\CustomContainer.pdb
+C:\Users\student\Desktop\CollectionsAndGenerics\CustomContainer\obj\Debug\CustomContainer.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\CollectionsAndGenerics\CustomContainer\obj\Debug\CustomContainer.exe
+C:\Users\student\Desktop\CollectionsAndGenerics\CustomContainer\obj\Debug\CustomContainer.pdb

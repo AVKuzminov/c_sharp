@@ -1,0 +1,7 @@
+C:\Users\akrazer\Desktop\Weather\Weather.Console\bin\Debug\Weather.Console.exe.config
+C:\Users\akrazer\Desktop\2 домашка\Weather\Weather.Console\bin\Debug\Weather.Console.exe.config
+C:\Users\akrazer\Desktop\2 домашка\Weather\Weather.Console\obj\Debug\Weather.Console.exe
+C:\Users\akrazer\Desktop\2 домашка\Weather\Weather.Console\obj\Debug\Weather.Console.pdb
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\2 домашка\Weather\Weather.Console\bin\Debug\Weather.Console.exe.config
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\2 домашка\Weather\Weather.Console\obj\Debug\Weather.Console.exe
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\2 домашка\Weather\Weather.Console\obj\Debug\Weather.Console.pdb

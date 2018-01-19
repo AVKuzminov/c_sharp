@@ -1,0 +1,6 @@
+C:\Users\akrazer\Desktop\CollectionsAndGenerics\Dictionary\DefaultApps\bin\Debug\DefaultApps.exe.config
+C:\Users\akrazer\Desktop\CollectionsAndGenerics\Dictionary\DefaultApps\bin\Debug\DefaultApps.exe
+C:\Users\akrazer\Desktop\CollectionsAndGenerics\Dictionary\DefaultApps\bin\Debug\DefaultApps.pdb
+C:\Users\akrazer\Desktop\CollectionsAndGenerics\Dictionary\DefaultApps\obj\Debug\DefaultApps.csprojResolveAssemblyReference.cache
+C:\Users\akrazer\Desktop\CollectionsAndGenerics\Dictionary\DefaultApps\obj\Debug\DefaultApps.exe
+C:\Users\akrazer\Desktop\CollectionsAndGenerics\Dictionary\DefaultApps\obj\Debug\DefaultApps.pdb

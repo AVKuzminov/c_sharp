@@ -1,0 +1,6 @@
+C:\Users\akrazer\Desktop\trysort\trysort\bin\Debug\trysort.exe.config
+C:\Users\akrazer\Desktop\trysort\trysort\bin\Debug\trysort.exe
+C:\Users\akrazer\Desktop\trysort\trysort\bin\Debug\trysort.pdb
+C:\Users\akrazer\Desktop\trysort\trysort\obj\Debug\trysort.csprojResolveAssemblyReference.cache
+C:\Users\akrazer\Desktop\trysort\trysort\obj\Debug\trysort.exe
+C:\Users\akrazer\Desktop\trysort\trysort\obj\Debug\trysort.pdb

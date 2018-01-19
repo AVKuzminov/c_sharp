@@ -1,0 +1,8 @@
+C:\Users\akrazer\Desktop\Inheritance\Inheritance\bin\Debug\Polygons.exe.config
+C:\Users\akrazer\Desktop\2 домашка\Inheritance\Inheritance\bin\Debug\Polygons.exe.config
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\2 домашка\Inheritance\Inheritance\bin\Debug\Polygons.exe.config
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\2 домашка\Inheritance\Inheritance\bin\Debug\Polygons.exe
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\2 домашка\Inheritance\Inheritance\bin\Debug\Polygons.pdb
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\2 домашка\Inheritance\Inheritance\obj\Debug\Polygons.csprojResolveAssemblyReference.cache
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\2 домашка\Inheritance\Inheritance\obj\Debug\Polygons.exe
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\2 домашка\Inheritance\Inheritance\obj\Debug\Polygons.pdb

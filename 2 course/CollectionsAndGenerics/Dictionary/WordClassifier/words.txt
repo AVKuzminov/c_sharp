@@ -1,0 +1,11 @@
+﻿class
+reference
+value
+variable
+stack
+heap
+getter
+setter
+struct
+Constructor
+method

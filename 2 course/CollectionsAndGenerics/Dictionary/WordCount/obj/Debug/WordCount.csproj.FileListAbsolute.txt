@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\CollectionsAndGenerics\Dictionary\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\student\Desktop\CollectionsAndGenerics\Dictionary\WordCount\bin\Debug\WordCount.exe
+C:\Users\student\Desktop\CollectionsAndGenerics\Dictionary\WordCount\bin\Debug\WordCount.pdb
+C:\Users\student\Desktop\CollectionsAndGenerics\Dictionary\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\CollectionsAndGenerics\Dictionary\WordCount\obj\Debug\WordCount.exe
+C:\Users\student\Desktop\CollectionsAndGenerics\Dictionary\WordCount\obj\Debug\WordCount.pdb

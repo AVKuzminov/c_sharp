@@ -1,0 +1,38 @@
+[
+  {
+    "Date": "2016-10-01",
+    "Temperature": 5,
+    "Humidity": 30,
+    "LocationId": 1
+  },
+  {
+    "Date": "2016-10-02",
+    "Temperature": 6,
+    "Humidity": 35,
+    "LocationId": 1
+  },
+  {
+    "Date": "2016-10-03",
+    "Temperature": 3,
+    "Humidity": 20,
+    "LocationId": 1
+  },
+  {
+    "Date": "2016-10-01",
+    "Temperature": 7,
+    "Humidity": 50,
+    "LocationId": 2
+  },
+  {
+    "Date": "2016-10-01",
+    "Temperature": 3,
+    "Humidity": 50,
+    "LocationId": 3
+  },
+  {
+    "Date": "2016-10-02",
+    "Temperature": 5,
+    "Humidity": 30,
+    "LocationId": 4
+  }
+]

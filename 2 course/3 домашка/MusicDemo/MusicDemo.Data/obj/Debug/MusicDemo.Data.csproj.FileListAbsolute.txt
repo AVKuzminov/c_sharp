@@ -1,0 +1,14 @@
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.Data\bin\Debug\MusicDemo.Data.dll.config
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.Data\bin\Debug\MusicDemo.Data.dll
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.Data\bin\Debug\MusicDemo.Data.pdb
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.Data\bin\Debug\EntityFramework.dll
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.Data\bin\Debug\EntityFramework.xml
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.Data\obj\Debug\MusicDemo.Data.csprojResolveAssemblyReference.cache
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.Data\obj\Debug\MusicDemo.Data.Migrations.Initial.resources
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.Data\obj\Debug\MusicDemo.Data.Migrations.ArtistRequiredForEachAlbum.resources
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.Data\obj\Debug\MusicDemo.Data.Migrations.AlbumRequiredForSong.resources
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.Data\obj\Debug\MusicDemo.Data.csproj.GenerateResource.Cache
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.Data\obj\Debug\MusicDemo.Data.dll
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.Data\obj\Debug\MusicDemo.Data.pdb

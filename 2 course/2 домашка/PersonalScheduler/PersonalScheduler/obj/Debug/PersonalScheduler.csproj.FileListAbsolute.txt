@@ -1,0 +1,24 @@
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\bin\Debug\PersonalScheduler.exe.config
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\PersonalScheduler.csprojResolveAssemblyReference.cache
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\EventInfoWindow.g.cs
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\MainWindow.g.cs
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\VisualNotifierWindow.g.cs
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\App.g.cs
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\PersonalScheduler_MarkupCompile.cache
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\PersonalScheduler_MarkupCompile.lref
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\bin\Debug\PersonalScheduler.exe
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\bin\Debug\PersonalScheduler.pdb
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\EventInfoWindow.baml
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\MainWindow.baml
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\VisualNotifierWindow.baml
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\PersonalScheduler.g.resources
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\PersonalScheduler.Properties.Resources.resources
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\PersonalScheduler.csproj.GenerateResource.Cache
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\PersonalScheduler.exe
+C:\Users\akrazer\Desktop\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\PersonalScheduler.pdb
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\2 домашка\PersonalScheduler\PersonalScheduler\bin\Debug\PersonalScheduler.exe.config
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\PersonalScheduler.exe
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\2 домашка\PersonalScheduler\PersonalScheduler\obj\Debug\PersonalScheduler.pdb

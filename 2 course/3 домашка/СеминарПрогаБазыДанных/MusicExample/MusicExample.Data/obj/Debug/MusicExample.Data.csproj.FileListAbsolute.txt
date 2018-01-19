@@ -1,0 +1,13 @@
+C:\Users\student\Desktop\MusicExample\MusicExample.Data\bin\Debug\MusicExample.Data.dll.config
+C:\Users\student\Desktop\MusicExample\MusicExample.Data\bin\Debug\MusicExample.Data.dll
+C:\Users\student\Desktop\MusicExample\MusicExample.Data\bin\Debug\MusicExample.Data.pdb
+C:\Users\student\Desktop\MusicExample\MusicExample.Data\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\MusicExample\MusicExample.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\MusicExample\MusicExample.Data\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\MusicExample\MusicExample.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\MusicExample\MusicExample.Data\obj\Debug\MusicExample.Data.dll
+C:\Users\student\Desktop\MusicExample\MusicExample.Data\obj\Debug\MusicExample.Data.pdb
+C:\Users\student\Desktop\MusicExample\MusicExample.Data\obj\Debug\MusicExample.Data.Migrations.Initial.resources
+C:\Users\student\Desktop\MusicExample\MusicExample.Data\obj\Debug\MusicExample.Data.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\MusicExample\MusicExample.Data\obj\Debug\MusicExample.Data.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MusicExample\MusicExample.Data\obj\Debug\MusicExample.Data.Migrations.ArtistsRequiredForEachAlbum.resources

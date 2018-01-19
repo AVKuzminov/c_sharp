@@ -1,0 +1,5 @@
+C:\Users\akrazer\Desktop\2 домашка\Weather\Weather.Classes\bin\Debug\Weather.Classes.dll
+C:\Users\akrazer\Desktop\2 домашка\Weather\Weather.Classes\bin\Debug\Weather.Classes.pdb
+C:\Users\akrazer\Desktop\2 домашка\Weather\Weather.Classes\obj\Debug\Weather.Classes.csprojResolveAssemblyReference.cache
+C:\Users\akrazer\Desktop\2 домашка\Weather\Weather.Classes\obj\Debug\Weather.Classes.dll
+C:\Users\akrazer\Desktop\2 домашка\Weather\Weather.Classes\obj\Debug\Weather.Classes.pdb

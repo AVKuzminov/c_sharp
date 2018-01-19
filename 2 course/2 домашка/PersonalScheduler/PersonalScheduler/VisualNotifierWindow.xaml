@@ -1,0 +1,36 @@
+﻿<Window x:Class="PersonalScheduler.VisualNotifierWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PersonalScheduler"
+        mc:Ignorable="d"
+        Title="Event comes!" Height="604" Width="704">
+    <Window.Background>
+        <ImageBrush ImageSource="Backgrounds/snail.png"/>
+    </Window.Background>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        
+        <TextBlock Margin="60,0,10,20" FontSize="21.333"> Name</TextBlock>
+        <TextBlock Margin="60,0,10,20" Grid.Row="1" FontSize="21.333"> Time</TextBlock>
+        <TextBlock Margin="40,0,10,20" Grid.Row="2" FontSize="21.333"> Descripton</TextBlock>
+        <TextBlock Margin="60,0,10,20" Grid.Row="3" FontSize="21.333"> Place</TextBlock>
+
+        <TextBox Name ="textBoxName" Grid.Column="2" Grid.Row="0" Background="#4CFFFFFF" FontSize="21.333"></TextBox>
+        <TextBox Name ="textBoxTime" Grid.Column="2" Grid.Row="1" Background="#4CFFFFFF" FontSize="21.333"></TextBox>
+        <TextBox Name ="textBoxDescription" Grid.Column="2" Grid.Row="2" Background="#4CFFFFFF" FontSize="21.333"></TextBox>
+        <TextBox Name ="textBoxPlace" Grid.Column="1" Grid.Row="3" Margin="1,2,3,4" Background="#4CFFFFFF" FontSize="21.333"></TextBox>
+
+
+    </Grid>
+</Window>

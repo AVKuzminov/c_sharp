@@ -1,0 +1,32 @@
+﻿<Window x:Name="MainWindow1" x:Class="Universities3.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Universities3.UI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="528.462" Width="1050.163">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="OutputDataGrid" HorizontalAlignment="Left" Margin="233,30,0,0" VerticalAlignment="Top" Height="303" Width="759" Grid.ColumnSpan="3" Grid.Row="1" Grid.RowSpan="3"/>
+        <Button x:Name="StartQuery1Button" Content="Query 1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="118" Height="40" Click="StartQuery1Button_Click" Grid.Column="0" Margin="44,39,0,0"/>
+        <TextBox x:Name="textBoxYear" HorizontalAlignment="Left" Height="32"  TextWrapping="Wrap" VerticalAlignment="Top" Width="203" Grid.Row="0" Grid.Column="1" Margin="74,68,0,0"/>
+        <Label x:Name="labelYear" Content="Enter Year for Query 1 and Query 2" HorizontalAlignment="Left" VerticalAlignment="Top" Height="32" Width="203" Margin="74,21,0,0" Grid.Column="1"/>
+        <Button x:Name="StartQuery2Button" Content="Query 2" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="118" Height="40" Click="StartQuery2Button_Click" Grid.Row="1" Grid.Column="0" Margin="44,30,0,0"/>
+        <Button x:Name="StartQuery3Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="118" Height="40" Click="StartQuery3Button_Click" Content="Query 3" Grid.Row="2" Grid.Column="0" Margin="44,34,0,0"/>
+        <Label x:Name="labelUnversity" Content="Enter University for Query 3" HorizontalAlignment="Left" Margin="69,32,0,0" VerticalAlignment="Top" Grid.Column="2" Height="36" Width="208"/>
+        <TextBox x:Name="textBoxUniversity" HorizontalAlignment="Left" Height="32" Margin="69,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="176" Grid.Column="2"/>
+        <Button x:Name="StartQuery4Button" Content="Query 4" HorizontalAlignment="Left" VerticalAlignment="Top" Width="118" Height="36" Click="StartQuery4Button_Click" Grid.Row="3" Grid.Column="0" Margin="44,42,0,0"/>
+
+    </Grid>
+</Window>

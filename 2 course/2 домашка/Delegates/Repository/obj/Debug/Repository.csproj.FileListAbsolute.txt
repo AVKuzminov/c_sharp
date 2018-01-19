@@ -1,0 +1,17 @@
+C:\Users\akrazer\Desktop\Delegates\Repository\bin\Debug\Repository.exe.config
+C:\Users\akrazer\Desktop\Delegates\Repository\bin\Debug\Repository.exe
+C:\Users\akrazer\Desktop\Delegates\Repository\bin\Debug\Repository.pdb
+C:\Users\akrazer\Desktop\Delegates\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\akrazer\Desktop\Delegates\Repository\obj\Debug\MainWindow.baml
+C:\Users\akrazer\Desktop\Delegates\Repository\obj\Debug\EmployeeInfo.g.cs
+C:\Users\akrazer\Desktop\Delegates\Repository\obj\Debug\MainWindow.g.cs
+C:\Users\akrazer\Desktop\Delegates\Repository\obj\Debug\App.g.cs
+C:\Users\akrazer\Desktop\Delegates\Repository\obj\Debug\Repository_MarkupCompile.cache
+C:\Users\akrazer\Desktop\Delegates\Repository\obj\Debug\Repository_MarkupCompile.lref
+C:\Users\akrazer\Desktop\Delegates\Repository\obj\Debug\EmployeeInfo.baml
+C:\Users\akrazer\Desktop\Delegates\Repository\obj\Debug\Repository.g.resources
+C:\Users\akrazer\Desktop\Delegates\Repository\obj\Debug\Repository.exe
+C:\Users\akrazer\Desktop\Delegates\Repository\obj\Debug\Repository.pdb
+C:\Users\akrazer\Desktop\2 домашка\Delegates\Repository\bin\Debug\Repository.exe.config
+C:\Users\akrazer\Desktop\2 домашка\Delegates\Repository\obj\Debug\Repository.exe
+C:\Users\akrazer\Desktop\2 домашка\Delegates\Repository\obj\Debug\Repository.pdb

@@ -1,0 +1,6 @@
+C:\Users\akrazer\Desktop\PredicatesExample\PredicatesExample\bin\Debug\PredicatesExample.exe.config
+C:\Users\akrazer\Desktop\PredicatesExample\PredicatesExample\bin\Debug\PredicatesExample.exe
+C:\Users\akrazer\Desktop\PredicatesExample\PredicatesExample\bin\Debug\PredicatesExample.pdb
+C:\Users\akrazer\Desktop\PredicatesExample\PredicatesExample\obj\Debug\PredicatesExample.csprojResolveAssemblyReference.cache
+C:\Users\akrazer\Desktop\PredicatesExample\PredicatesExample\obj\Debug\PredicatesExample.exe
+C:\Users\akrazer\Desktop\PredicatesExample\PredicatesExample\obj\Debug\PredicatesExample.pdb

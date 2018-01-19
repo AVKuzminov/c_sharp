@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\CollectionsAndGenerics\Dictionary\WordClassifier\bin\Debug\WordClassifier.exe.config
+C:\Users\student\Desktop\CollectionsAndGenerics\Dictionary\WordClassifier\bin\Debug\WordClassifier.exe
+C:\Users\student\Desktop\CollectionsAndGenerics\Dictionary\WordClassifier\bin\Debug\WordClassifier.pdb
+C:\Users\student\Desktop\CollectionsAndGenerics\Dictionary\WordClassifier\obj\Debug\WordClassifier.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\CollectionsAndGenerics\Dictionary\WordClassifier\obj\Debug\WordClassifier.exe
+C:\Users\student\Desktop\CollectionsAndGenerics\Dictionary\WordClassifier\obj\Debug\WordClassifier.pdb
+G:\CollectionsAndGenerics\Dictionary\WordClassifier\bin\Debug\WordClassifier.exe.config
+G:\CollectionsAndGenerics\Dictionary\WordClassifier\obj\Debug\WordClassifier.exe
+G:\CollectionsAndGenerics\Dictionary\WordClassifier\obj\Debug\WordClassifier.pdb
+C:\Users\akrazer\Desktop\CollectionsAndGenerics\Dictionary\WordClassifier\bin\Debug\WordClassifier.exe.config
+C:\Users\akrazer\Desktop\CollectionsAndGenerics\Dictionary\WordClassifier\obj\Debug\WordClassifier.exe
+C:\Users\akrazer\Desktop\CollectionsAndGenerics\Dictionary\WordClassifier\obj\Debug\WordClassifier.pdb
+C:\Users\akrazer\Desktop\CollectionsAndGenerics\Dictionary\WordClassifier\bin\Debug\WordClassifier.exe
+C:\Users\akrazer\Desktop\CollectionsAndGenerics\Dictionary\WordClassifier\bin\Debug\WordClassifier.pdb
+C:\Users\akrazer\Desktop\CollectionsAndGenerics\Dictionary\WordClassifier\obj\Debug\WordClassifier.csprojResolveAssemblyReference.cache

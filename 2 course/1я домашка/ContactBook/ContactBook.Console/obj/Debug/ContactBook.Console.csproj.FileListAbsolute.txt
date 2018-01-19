@@ -1,0 +1,7 @@
+C:\Users\akrazer\Desktop\ContactBook\ContactBook.Console\bin\Debug\ContactBook.Console.exe.config
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\1я домашка\ContactBook\ContactBook.Console\bin\Debug\ContactBook.Console.exe.config
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\1я домашка\ContactBook\ContactBook.Console\bin\Debug\ContactBook.Console.exe
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\1я домашка\ContactBook\ContactBook.Console\bin\Debug\ContactBook.Console.pdb
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\1я домашка\ContactBook\ContactBook.Console\obj\Debug\ContactBook.Console.csprojResolveAssemblyReference.cache
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\1я домашка\ContactBook\ContactBook.Console\obj\Debug\ContactBook.Console.exe
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\1я домашка\ContactBook\ContactBook.Console\obj\Debug\ContactBook.Console.pdb

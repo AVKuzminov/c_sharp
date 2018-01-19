@@ -1,0 +1,7 @@
+C:\Users\akrazer\Desktop\DelegateTasks\DelegateTasks\bin\Debug\DelegateTasks.exe.config
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\1я домашка\DelegateTasks\DelegateTasks\bin\Debug\DelegateTasks.exe.config
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\1я домашка\DelegateTasks\DelegateTasks\bin\Debug\DelegateTasks.exe
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\1я домашка\DelegateTasks\DelegateTasks\bin\Debug\DelegateTasks.pdb
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\1я домашка\DelegateTasks\DelegateTasks\obj\Debug\DelegateTasks.csprojResolveAssemblyReference.cache
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\1я домашка\DelegateTasks\DelegateTasks\obj\Debug\DelegateTasks.exe
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\1я домашка\DelegateTasks\DelegateTasks\obj\Debug\DelegateTasks.pdb

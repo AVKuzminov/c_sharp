@@ -1,0 +1,15 @@
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.UI\bin\Debug\MusicDemo.UI.exe.config
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.UI\bin\Debug\MusicDemo.UI.exe
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.UI\bin\Debug\MusicDemo.UI.pdb
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.UI\bin\Debug\EntityFramework.dll
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.UI\bin\Debug\MusicDemo.Data.dll
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.UI\bin\Debug\MusicDemo.Data.pdb
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.UI\bin\Debug\EntityFramework.xml
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.UI\obj\Debug\MusicDemo.UI.csprojResolveAssemblyReference.cache
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.UI\obj\Debug\MusicDemo.UI.exe
+C:\Users\akrazer\Desktop\3 домашка\MusicDemo\MusicDemo.UI\obj\Debug\MusicDemo.UI.pdb
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\3 домашка\MusicDemo\MusicDemo.UI\bin\Debug\MusicDemo.UI.exe.config
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\3 домашка\MusicDemo\MusicDemo.UI\obj\Debug\MusicDemo.UI.exe
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\3 домашка\MusicDemo\MusicDemo.UI\obj\Debug\MusicDemo.UI.pdb

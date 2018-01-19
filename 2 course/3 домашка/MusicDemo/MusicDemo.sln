@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicDemo.UI", "MusicDemo.UI\MusicDemo.UI.csproj", "{040CFF1F-79F8-484C-9D41-ADB1FBA42DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicDemo.Data", "MusicDemo.Data\MusicDemo.Data.csproj", "{86B77977-371D-4E84-803B-0DF5B05B150B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{040CFF1F-79F8-484C-9D41-ADB1FBA42DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040CFF1F-79F8-484C-9D41-ADB1FBA42DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040CFF1F-79F8-484C-9D41-ADB1FBA42DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040CFF1F-79F8-484C-9D41-ADB1FBA42DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B77977-371D-4E84-803B-0DF5B05B150B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B77977-371D-4E84-803B-0DF5B05B150B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B77977-371D-4E84-803B-0DF5B05B150B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B77977-371D-4E84-803B-0DF5B05B150B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

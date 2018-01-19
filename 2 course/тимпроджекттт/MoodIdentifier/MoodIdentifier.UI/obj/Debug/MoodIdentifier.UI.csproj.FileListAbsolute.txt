@@ -1,0 +1,64 @@
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\MoodIdentifier.UI.exe.config
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\MoodIdentifier.UI.exe
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\MoodIdentifier.UI.pdb
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\LinqToTwitter.net.dll
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\MoodIdentifier.AnalysisData.dll
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\MoodIdentifier.TweetData.dll
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\System.Reactive.Core.dll
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\System.Reactive.Linq.dll
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\MoodIdentifier.AnalysisData.pdb
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\MoodIdentifier.TweetData.pdb
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\System.Reactive.Core.xml
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\System.Reactive.Linq.xml
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI.csprojResolveAssemblyReference.cache
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MainWindow.g.cs
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\obj\Debug\OutputData.g.cs
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\obj\Debug\App.g.cs
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI_MarkupCompile.cache
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI_MarkupCompile.lref
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MainWindow.baml
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\obj\Debug\OutputData.baml
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI.g.resources
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI.Properties.Resources.resources
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI.csproj.GenerateResource.Cache
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI.exe
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI.pdb
+C:\Users\akrazer\Source\Repos\MoodIdentifier7\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI.csproj.ResolveComReference.cache
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\MoodIdentifier.UI.exe.config
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI.csproj.ResolveComReference.cache
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI.exe
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI.pdb
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\MoodIdentifier.UI.exe
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\MoodIdentifier.UI.pdb
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\LinqToTwitter.net.dll
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\MoodIdentifier.AnalysisData.dll
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\MoodIdentifier.TweetData.dll
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\System.Reactive.Core.dll
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\System.Reactive.Linq.dll
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\MoodIdentifier.AnalysisData.pdb
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\MoodIdentifier.TweetData.pdb
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\System.Reactive.Core.xml
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\System.Reactive.Linq.xml
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI.csprojResolveAssemblyReference.cache
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MainWindow.g.cs
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\obj\Debug\OutputData.g.cs
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\obj\Debug\App.g.cs
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI_MarkupCompile.cache
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI_MarkupCompile.lref
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MainWindow.baml
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\obj\Debug\OutputData.baml
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI.g.resources
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI.Properties.Resources.resources
+C:\Users\akrazer\Desktop\учеба\по предметам\программирование\2 курс\тимпроджекттт\MoodIdentifier\MoodIdentifier.UI\obj\Debug\MoodIdentifier.UI.csproj.GenerateResource.Cache

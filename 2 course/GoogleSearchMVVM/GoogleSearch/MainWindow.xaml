@@ -1,0 +1,38 @@
+﻿<Window x:Class="GoogleSearch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GoogleSearch"
+        mc:Ignorable="d"
+        Title="Google Search" Height="350" Width="525" DataContext="{Binding Main, Source={StaticResource Locator}}">
+    <Grid Margin="5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition Width="120"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBox Name="textBoxQuery" Grid.Column="0" Height="20" Text="{Binding Query, UpdateSourceTrigger=PropertyChanged}">
+            <TextBox.InputBindings>
+                <KeyBinding Command="{Binding SearchCommand}" Key="Enter"/>
+            </TextBox.InputBindings>
+            
+        </TextBox>
+        <Button Grid.Column="1" Height="25" Margin="5 3" Command="{Binding SearchCommand}">Search online</Button>
+        <Button Grid.Column="2" Height="25" Margin="5 3" Command="{Binding BrowseCommand}">Browse</Button>
+        <ListBox Name="listBoxResults" Grid.Row="1" Grid.ColumnSpan="3" ItemsSource="{Binding Results}" SelectedItem="{Binding SelectedResult}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock FontSize="14" Text="{Binding Title}"/>
+                        <TextBlock FontSize="10" Text="{Binding Description}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>            
+        </ListBox>
+    </Grid>
+</Window>

@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "Moscow"
+  },
+  {
+    "Id": 2,
+    "Name": "Saint-Petersburg"
+  },
+  {
+    "Id": 3,
+    "Name": "Kazan"
+  },
+  {
+    "Id": 4,
+    "Name": "Pskov"
+  }
+]

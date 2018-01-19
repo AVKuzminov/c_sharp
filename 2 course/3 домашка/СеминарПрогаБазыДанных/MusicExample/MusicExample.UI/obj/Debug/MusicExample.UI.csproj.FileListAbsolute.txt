@@ -1,0 +1,27 @@
+C:\Users\student\Desktop\MusicExample\MusicExample.UI\bin\Debug\MusicExample.UI.exe.config
+C:\Users\student\Desktop\MusicExample\MusicExample.UI\bin\Debug\MusicExample.UI.exe
+C:\Users\student\Desktop\MusicExample\MusicExample.UI\bin\Debug\MusicExample.UI.pdb
+C:\Users\student\Desktop\MusicExample\MusicExample.UI\obj\Debug\MusicExample.UI.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\MusicExample\MusicExample.UI\obj\Debug\MusicExample.UI.exe
+C:\Users\student\Desktop\MusicExample\MusicExample.UI\obj\Debug\MusicExample.UI.pdb
+C:\Users\student\Desktop\MusicExample\MusicExample.UI\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\MusicExample\MusicExample.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\MusicExample\MusicExample.UI\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\MusicExample\MusicExample.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\MusicExample\MusicExample.UI\bin\Debug\MusicExample.Data.dll
+C:\Users\student\Desktop\MusicExample\MusicExample.UI\bin\Debug\MusicExample.Data.pdb
+C:\Users\akrazer\Desktop\СеминарПрогаБазыДанных\MusicExample\MusicExample.UI\bin\Debug\MusicExample.UI.exe.config
+C:\Users\akrazer\Desktop\СеминарПрогаБазыДанных\MusicExample\MusicExample.UI\obj\Debug\MusicExample.UI.exe
+C:\Users\akrazer\Desktop\СеминарПрогаБазыДанных\MusicExample\MusicExample.UI\obj\Debug\MusicExample.UI.pdb
+C:\Users\akrazer\Desktop\3 домашка\СеминарПрогаБазыДанных\MusicExample\MusicExample.UI\bin\Debug\MusicExample.UI.exe.config
+C:\Users\akrazer\Desktop\3 домашка\СеминарПрогаБазыДанных\MusicExample\MusicExample.UI\obj\Debug\MusicExample.UI.exe
+C:\Users\akrazer\Desktop\3 домашка\СеминарПрогаБазыДанных\MusicExample\MusicExample.UI\obj\Debug\MusicExample.UI.pdb
+C:\Users\akrazer\Desktop\3 домашка\СеминарПрогаБазыДанных\MusicExample\MusicExample.UI\bin\Debug\MusicExample.UI.exe
+C:\Users\akrazer\Desktop\3 домашка\СеминарПрогаБазыДанных\MusicExample\MusicExample.UI\bin\Debug\MusicExample.UI.pdb
+C:\Users\akrazer\Desktop\3 домашка\СеминарПрогаБазыДанных\MusicExample\MusicExample.UI\bin\Debug\EntityFramework.dll
+C:\Users\akrazer\Desktop\3 домашка\СеминарПрогаБазыДанных\MusicExample\MusicExample.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akrazer\Desktop\3 домашка\СеминарПрогаБазыДанных\MusicExample\MusicExample.UI\bin\Debug\MusicExample.Data.dll
+C:\Users\akrazer\Desktop\3 домашка\СеминарПрогаБазыДанных\MusicExample\MusicExample.UI\bin\Debug\MusicExample.Data.pdb
+C:\Users\akrazer\Desktop\3 домашка\СеминарПрогаБазыДанных\MusicExample\MusicExample.UI\bin\Debug\EntityFramework.xml
+C:\Users\akrazer\Desktop\3 домашка\СеминарПрогаБазыДанных\MusicExample\MusicExample.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akrazer\Desktop\3 домашка\СеминарПрогаБазыДанных\MusicExample\MusicExample.UI\obj\Debug\MusicExample.UI.csprojResolveAssemblyReference.cache

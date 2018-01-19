@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{2750754D-39DA-4702-9795-D919C86B609C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdas", "Lambdas\Lambdas.csproj", "{763E6FF2-BFEF-48C0-AB91-C38E97057941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{37F69432-A0DC-4B2F-8E11-E7404359C1B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2750754D-39DA-4702-9795-D919C86B609C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2750754D-39DA-4702-9795-D919C86B609C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2750754D-39DA-4702-9795-D919C86B609C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2750754D-39DA-4702-9795-D919C86B609C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{763E6FF2-BFEF-48C0-AB91-C38E97057941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763E6FF2-BFEF-48C0-AB91-C38E97057941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763E6FF2-BFEF-48C0-AB91-C38E97057941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763E6FF2-BFEF-48C0-AB91-C38E97057941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F69432-A0DC-4B2F-8E11-E7404359C1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F69432-A0DC-4B2F-8E11-E7404359C1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F69432-A0DC-4B2F-8E11-E7404359C1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F69432-A0DC-4B2F-8E11-E7404359C1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

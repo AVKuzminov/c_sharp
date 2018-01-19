@@ -1,0 +1,4 @@
+Посмотреть его видео про программирование WPF
+Посмотртеть про tray
+Сделать объекты класса ScheduledEvent в namespace'e PersonalScheduler immutable
+EventInfoWindow.xaml.cs - там все говно

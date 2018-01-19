@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\CollectionsAndGenerics\Array\bin\Debug\Array.exe.config
+C:\Users\student\Desktop\CollectionsAndGenerics\Array\bin\Debug\Array.exe
+C:\Users\student\Desktop\CollectionsAndGenerics\Array\bin\Debug\Array.pdb
+C:\Users\student\Desktop\CollectionsAndGenerics\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\CollectionsAndGenerics\Array\obj\Debug\Array.exe
+C:\Users\student\Desktop\CollectionsAndGenerics\Array\obj\Debug\Array.pdb
