@@ -1,0 +1,15 @@
+C:\Users\akrazer\Desktop\Крок\C#\HomeWork2ver3\ClassesLibrary\bin\Debug\ClassesLibrary.dll.config
+C:\Users\akrazer\Desktop\Крок\C#\HomeWork2ver3\ClassesLibrary\bin\Debug\ClassesLibrary.dll
+C:\Users\akrazer\Desktop\Крок\C#\HomeWork2ver3\ClassesLibrary\bin\Debug\ClassesLibrary.pdb
+C:\Users\akrazer\Desktop\Крок\C#\HomeWork2ver3\ClassesLibrary\bin\Debug\EntityFramework.dll
+C:\Users\akrazer\Desktop\Крок\C#\HomeWork2ver3\ClassesLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akrazer\Desktop\Крок\C#\HomeWork2ver3\ClassesLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\akrazer\Desktop\Крок\C#\HomeWork2ver3\ClassesLibrary\bin\Debug\EntityFramework.xml
+C:\Users\akrazer\Desktop\Крок\C#\HomeWork2ver3\ClassesLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akrazer\Desktop\Крок\C#\HomeWork2ver3\ClassesLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\akrazer\Desktop\Крок\C#\HomeWork2ver3\ClassesLibrary\obj\Debug\ClassesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\akrazer\Desktop\Крок\C#\HomeWork2ver3\ClassesLibrary\obj\Debug\ClassesLibrary.Migrations.Initial.resources
+C:\Users\akrazer\Desktop\Крок\C#\HomeWork2ver3\ClassesLibrary\obj\Debug\ClassesLibrary.Properties.Resources.resources
+C:\Users\akrazer\Desktop\Крок\C#\HomeWork2ver3\ClassesLibrary\obj\Debug\ClassesLibrary.csproj.GenerateResource.Cache
+C:\Users\akrazer\Desktop\Крок\C#\HomeWork2ver3\ClassesLibrary\obj\Debug\ClassesLibrary.dll
+C:\Users\akrazer\Desktop\Крок\C#\HomeWork2ver3\ClassesLibrary\obj\Debug\ClassesLibrary.pdb

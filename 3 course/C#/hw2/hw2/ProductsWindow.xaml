@@ -1,0 +1,54 @@
+﻿<Window x:Class="hw2.ProductsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:hw2"
+        mc:Ignorable="d"
+        Title="Products window" Height="384" Width="683">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF78F3FF"/>
+                <GradientStop Color="#FFB900FF" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="3.5*"></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.2*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="0.2*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="0.2*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="0.2*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="0.2*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="0.2*"></ColumnDefinition>
+            <ColumnDefinition Width="0.2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <ComboBox x:Name="comboBox" Grid.Row="2" Grid.Column="1" BorderBrush="#FF0DE6B5" OpacityMask="#FF0DE6B5" SelectionChanged="comboBox_SelectionChanged">
+            <TextBlock Background="#FFCD00FB" Foreground="White">Add</TextBlock>
+            <TextBlock Background="#FFCD00FB" Foreground="White">Edit</TextBlock>
+            <TextBlock Background="#FFCD00FB" Foreground="White">Delete</TextBlock>
+            <TextBlock Background="#FFCD00FB" Foreground="White">Third query</TextBlock>
+        </ComboBox>
+        <Label x:Name="NameLabel" Content="Enter name" Grid.Row="1" Grid.Column="3" Background="#FFCD00FB" Foreground="White"/>
+        <TextBox x:Name="NameTextBox" Grid.Row="2" Grid.Column="3" Background="#FF99FBFF" />
+        <Label x:Name="PurchaseLabel" Content="Enter purchase price" Grid.Row="1" Grid.Column="5" Background="#FFCD00FB" Foreground="White"/>
+        <TextBox x:Name="PurchaseTextBox" Grid.Row="2" Grid.Column="5" Background="#FF99FBFF" />
+        <Label x:Name="SellingLabel" Content="Enter selling price" Grid.Row="1" Grid.Column="7" Background="#FFCD00FB" Foreground="White"/>
+        <TextBox x:Name="SellingTextBox" Grid.Row="2" Grid.Column="7" Background="#FF99FBFF" />
+        <Button x:Name="ExecuteButton" Grid.Row="2" Grid.Column="9" Background="#FFCD00FB" Foreground="White" Content="Execute" Click="ExecuteButton_Click" />
+        <DataGrid x:Name="ProductsDataGrid" CanUserAddRows="False" Grid.Row="4" Grid.RowSpan="1" Grid.Column="1" Grid.ColumnSpan="9" BorderBrush="#FFCD00FB" Background="#FF99FBFF" />
+        <DatePicker x:Name="datePicker" Grid.Row="1" Grid.Column="9" />
+    </Grid>
+</Window>

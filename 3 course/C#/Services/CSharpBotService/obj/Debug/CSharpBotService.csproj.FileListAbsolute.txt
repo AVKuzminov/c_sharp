@@ -1,0 +1,2 @@
+C:\Users\akrazer\Desktop\Services\CSharpBotService\bin\Debug\CSharpBotService.exe.config
+C:\Users\akrazer\Desktop\Крок\C#\Services\CSharpBotService\bin\Debug\CSharpBotService.exe.config

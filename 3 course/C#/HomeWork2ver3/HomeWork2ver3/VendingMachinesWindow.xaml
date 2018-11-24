@@ -1,0 +1,44 @@
+﻿<Window x:Class="HomeWork2ver3.VendingMachinesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HomeWork2ver3"
+        mc:Ignorable="d"
+        Title="Vending machines window" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.2*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="0.2*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="0.2*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="0.2*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="0.2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <ComboBox x:Name="comboBox" Grid.Row="1" Grid.Column="1" SelectionChanged="comboBox_SelectionChanged">
+            <TextBlock>Add</TextBlock>
+            <TextBlock>Edit</TextBlock>
+            <!--<TextBlock>Delete</TextBlock>-->
+            <TextBlock>Query 1</TextBlock>
+            <TextBlock>Query 2</TextBlock>
+        </ComboBox>
+        <Label x:Name="LocationLabel" Content="Enter Location" Grid.Column="3" Grid.Row="2" IsEnabled="False" Grid.ColumnSpan="3" />
+        <TextBox x:Name="LocationText" Grid.Row="3" Grid.Column="3" Background="#FFFFE46A" IsEnabled="False" Grid.ColumnSpan="3"/>
+        <Button x:Name="EnterButton" Content="Enter" Grid.Column="7" Grid.Row="3" Click="EnterButton_Click" IsEnabled="False"/>
+        <DataGrid x:Name="dataGridTerminals" Grid.ColumnSpan="7" Grid.Column="1" Grid.Row="5" Grid.RowSpan="2" IsEnabled="False" Background="#FFFFE46A" BorderBrush="#FF415EB4" SelectionChanged="dataGridTerminals_SelectionChanged" />
+        <DatePicker x:Name="datePicker" Grid.Column="7" Grid.Row="2" DisplayDate="2017-01-01" FirstDayOfWeek="Monday" />
+    </Grid>
+</Window>

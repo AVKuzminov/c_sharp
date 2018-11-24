@@ -1,0 +1,16 @@
+C:\Users\akrazer\Desktop\Крок\C#\hw2\DatabaseClasses\bin\Debug\DatabaseClasses.dll.config
+C:\Users\akrazer\Desktop\Крок\C#\hw2\DatabaseClasses\bin\Debug\DatabaseClasses.dll
+C:\Users\akrazer\Desktop\Крок\C#\hw2\DatabaseClasses\bin\Debug\DatabaseClasses.pdb
+C:\Users\akrazer\Desktop\Крок\C#\hw2\DatabaseClasses\bin\Debug\EntityFramework.dll
+C:\Users\akrazer\Desktop\Крок\C#\hw2\DatabaseClasses\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akrazer\Desktop\Крок\C#\hw2\DatabaseClasses\bin\Debug\Newtonsoft.Json.dll
+C:\Users\akrazer\Desktop\Крок\C#\hw2\DatabaseClasses\bin\Debug\EntityFramework.xml
+C:\Users\akrazer\Desktop\Крок\C#\hw2\DatabaseClasses\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akrazer\Desktop\Крок\C#\hw2\DatabaseClasses\bin\Debug\Newtonsoft.Json.xml
+C:\Users\akrazer\Desktop\Крок\C#\hw2\DatabaseClasses\obj\Debug\DatabaseClasses.csprojResolveAssemblyReference.cache
+C:\Users\akrazer\Desktop\Крок\C#\hw2\DatabaseClasses\obj\Debug\DatabaseClasses.Migrations.Initial.resources
+C:\Users\akrazer\Desktop\Крок\C#\hw2\DatabaseClasses\obj\Debug\DatabaseClasses.Migrations.TerminalChanged.resources
+C:\Users\akrazer\Desktop\Крок\C#\hw2\DatabaseClasses\obj\Debug\DatabaseClasses.Migrations.ProductIdChanged.resources
+C:\Users\akrazer\Desktop\Крок\C#\hw2\DatabaseClasses\obj\Debug\DatabaseClasses.csproj.GenerateResource.Cache
+C:\Users\akrazer\Desktop\Крок\C#\hw2\DatabaseClasses\obj\Debug\DatabaseClasses.dll
+C:\Users\akrazer\Desktop\Крок\C#\hw2\DatabaseClasses\obj\Debug\DatabaseClasses.pdb
